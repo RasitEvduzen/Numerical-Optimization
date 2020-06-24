@@ -1,6 +1,6 @@
 clc,clear all,close all;
 
-%%% DATA %%%   Canım sevgilim
+%%% DATA %%%   
 T = [2 3 5]';  % Input Data
 Y = [1 6 4]';  % Output Data
 n = 2;  % Polynom Degree
