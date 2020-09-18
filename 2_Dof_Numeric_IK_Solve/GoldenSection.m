@@ -4,7 +4,7 @@ salt = -5;            % initial Condition
 sust = 5;             % initial Condition
 
 Ds = 1e-6;           
-tau = 0.38197;               % 2- golden section
+tau = 0.38197;               % 2 - tau =  golden section
 eps = Ds/(sust-salt);        % Tolerance
 N = ceil(-2.078*log(eps));   % Algorithm Step Size
 
