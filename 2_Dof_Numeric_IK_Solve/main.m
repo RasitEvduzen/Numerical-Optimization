@@ -1,5 +1,5 @@
 clc,clear all,close all,warning off;
-%% 2 Dof Robotic Arm Steppest Descent based Ýnverse Kinematics solve
+%% 2 Dof Robotic Arm Steppest Descent based Inverse Kinematics solve
 % Written By Raþit EVDÜZEN
 % 18-Sep-2020 10:49:18
 
